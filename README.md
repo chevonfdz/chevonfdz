@@ -15,8 +15,8 @@
   <a href="https://github.com/chevonfdz?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chevonfdz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-  <a href="https://github.com/chevonfdz/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/chevonfdz-profile-views"/></a>
+  <a href="mailto:chevonfernando10@gmailcom">
+    <img alt="mail" title="GitHub profile mail" src="https://camo.githubusercontent.com/36c8fbd290b856d6b84e8657317ce9c118d9773fdd8c9215c07599ee177f9053/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f4d61696c2d4536314232332e7376673f6c6f676f3d6d61696c"/></a>
     
   <a href="https://github.com/chevonfdz?tab=repositoriessort=stargazers">
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
