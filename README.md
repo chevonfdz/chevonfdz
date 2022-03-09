@@ -4,23 +4,34 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/chevonfdz?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?size=22&color=F71414&background=FBFF0300&width=600&lines=Always+trying+and+learning+new+things!!!;I+am+an+undergraduate+with+a+lot+of+enthusiasm!!!"></a>
+  <a href="https://github.com/chevonfdz?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=5CF7D5&background=FBFF0300&width=600&lines=Always+trying+and+learning+new+things!"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/chevonfdz?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/chevonfdz"/></a>
+
+  <a href="https://github.com/chevonfdz?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chevonfdz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+
+  <a href="https://github.com/chevonfdz/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/chevonfdz-profile-views"/></a>
+
+  <a href="https://github.com/chevonfdz/chevonfdz/issues">
+    <img alt="Issue" title="GitHub Open Issue" src="https://custom-icon-badges.herokuapp.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
+
+  <a href="#">
+    <img alt="Discuss" title="GitHub Discuss" src="https://custom-icon-badges.herokuapp.com/badge/-Discuss-plum?style=for-the-badge&logo=comment-discussion&logoColor=black"/></a>
 </p>
 
 
-## 🔥 Streak stats
+## 🔥 GitHub Streak stats
 
 <!-- GitHub Readme Streak Stats --->
 <p align="center">
   <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chevonfdz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chevonfdz&theme=monokai-metallian&hide_border=true"/>
   </a>
-</p>
-
-## 📘 My top open source projects
-
-<p align="left">
-  <a href="https://github.com/chevonfdz/VirtualAssistant-Python-.git"><img width="340" src="https://github.com/chevonfdz/VirtualAssistant-Python-.git.app/api/pin/?username=chevonfdz&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 
@@ -92,7 +103,7 @@
 ## 📊 Github stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=chevonfdz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="500" alt="chevonfdz" />
-  <img alt="chevonfdz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevonfdz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="280"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=chevonfdz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="444" alt="chevonfdz" />
+  <img alt="chevonfdz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevonfdz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="344"/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="chevonfdz's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=chevonfdz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
