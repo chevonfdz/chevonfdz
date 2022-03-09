@@ -1,29 +1,10 @@
 <h3 align="center">
-  Welcome to Chevin Fernando's profile!
+  Welcome to the Chevon Fernando's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
   <a href="https://github.com/chevonfdz?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?size=22&color=F71414&background=FBFF0300&width=600&lines=Always+trying+and+learning+new+things!!!;I+am+an+undergraduate+with+a+lot+of+enthusiasm!!!"></a>
-</p>
-
-<!-- Social badges section -->
-<p align="center">
-  <a href="https://github.com/chevonfdz?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/chevonfdz"/></a>
-
-  <a href="https://github.com/chevonfdz?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chevonfdz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-
-  <a href="mailto:chevonfernando10@gmailcom">
-    <img alt="mail" title="GitHub profile mail" src="https://camo.githubusercontent.com/36c8fbd290b856d6b84e8657317ce9c118d9773fdd8c9215c07599ee177f9053/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e6865726f6b756170702e636f6d2f62616467652f4d61696c2d4536314232332e7376673f6c6f676f3d6d61696c"/></a>
-    
-  <a href="https://github.com/chevonfdz?tab=repositoriessort=stargazers">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-
-  <a href="https://github.com/chevonfdz/My-Contributions/blob/main/README.md">
-    <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
-
 </p>
 
 
@@ -34,6 +15,12 @@
   <a href="#">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chevonfdz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chevonfdz&theme=monokai-metallian&hide_border=true"/>
   </a>
+</p>
+
+## 📘 My top open source projects
+
+<p align="left">
+  <a href="https://github.com/chevonfdz/VirtualAssistant-Python-.git"><img width="340" src="https://github.com/chevonfdz/VirtualAssistant-Python-.git.app/api/pin/?username=chevonfdz&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 
@@ -105,7 +92,7 @@
 ## 📊 Github stats
 
 <p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=chevonfdz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="300" alt="chevonfdz" />
-  <img alt="chevonfdz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevonfdz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="500"/>
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=chevonfdz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="200px" width="500" alt="chevonfdz" />
+  <img alt="chevonfdz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chevonfdz&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="200px" width="280"/>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="chevonfdz's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=chevonfdz&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
