@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/chevonfdz?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=5CF7D5&background=FBFF0300&width=600&lines=Always+trying+and+learning+new+things!"></a>
+  <a href="https://github.com/chevonfdz?tab=repositories"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=5CF7D5&background=63000000&width=500&lines=Always+trying+and+learning+new+things!"></a>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/chevonfdz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
   <a href="https://github.com/chevonfdz/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/chevonfdz-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 
   <a href="https://github.com/chevonfdz/chevonfdz/issues">
     <img alt="Issue" title="GitHub Open Issue" src="https://custom-icon-badges.herokuapp.com/badge/-Open%20Issue-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a>
