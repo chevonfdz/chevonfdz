@@ -25,3 +25,14 @@
     <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Forks-2962FF?style=for-the-badge&logoColor=white&logo=fork"/></a>
 
 </p>
+
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats --->
+<p align="center">
+  <a href="https://github.com/chevonfdz/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="chevonfdz's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chevonfdz&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
